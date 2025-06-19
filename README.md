@@ -2,7 +2,7 @@
 
 ### 📌 Overview
 
-This is a Power BI practice project that analyzes international **batting statistics** of the **Australia cricket team** when playing at home venues. The dataset is sourced from [ESPNcricinfo Statsguru](https://stats.espncricinfo.com/ci/engine/stats/index.html), one of the most reputable cricket statistics platforms.
+This is a Power BI practice project that analyzes international **batting and bowling statistics** of the **Australia cricket team** when playing at home venues. The dataset is sourced from [ESPNcricinfo Statsguru](https://stats.espncricinfo.com/ci/engine/stats/index.html), one of the most reputable cricket statistics platforms.
 
 Through this project, I aim to explore and visualize key performance metrics of Australian batsmen to enhance my Power BI skills and data storytelling capabilities.
 
