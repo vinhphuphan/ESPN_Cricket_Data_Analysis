@@ -9,7 +9,7 @@ Through this project, I aim to explore and visualize key performance metrics of 
 ### 🧾 Data Source
 
 * **Website**: [ESPNcricinfo Statsguru](https://stats.espncricinfo.com/ci/engine/stats/index.html?class=2;home_or_away=1;team=2;template=results;type=batting)
-* **Context**: The dataset includes **batting records** of Australian players in **ODI matches** played on **home grounds**.
+* **Context**: The dataset includes **batting and bowling records** of Australian players in **ODI matches** played on **home grounds**.
 * **Note**: For training purposes, only the **first page (50 records)** was scraped and used in this analysis.
 
 ### 📊 Project Structure
