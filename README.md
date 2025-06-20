@@ -6,7 +6,7 @@ This is a Power BI practice project that analyzes international **batting, bowli
 Through this project, I aim to explore and visualize key performance metrics of Australian batsmen to enhance my Power BI skills and data storytelling capabilities.
 
 ### Link
-👉 Live Report: [ESPN Cricket Data Analysis](https://app.powerbi.com/viewr=eyJrIjoiYjQxMDE1N2YtMmJlMy00YWM2LWI5Y2EtMzU3YjI3YzhlNmE5IiwidCI6IjljYjdlZjQ5LTdjYzUtNDBkZC1hOTIyLTMxMmFkYTk2Y2YyYyJ9)
+👉 Live Report: [ESPN Cricket Data Analysis](https://vinhphuphan.github.io/ESPN_Cricket_Data_Analysis/)
 
 ### 🧾 Data Source
 
