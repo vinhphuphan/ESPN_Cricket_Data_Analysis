@@ -1,13 +1,13 @@
 # 🏏 ESPN Cricket Data Analysis - Power BI Project
-
+[![](https://skillicons.dev/icons?i=powerbi)](https://skillicons.dev)
 ### 📌 Overview
 
 This is a Power BI practice project that analyzes international **batting, bowling, and fielding statistics** of the **Australia cricket team** when playing at home venues. The dataset is sourced from [ESPNcricinfo Statsguru](https://stats.espncricinfo.com/ci/engine/stats/index.html), one of the most reputable cricket statistics platforms.
 
 Through this project, I aim to explore and visualize key performance metrics of Australian batsmen to enhance my Power BI skills and data storytelling capabilities.
 
-### Links
-👉 Live Report: [ESPN Cricket Data Analysis]([https://vinhphuphan.github.io/Hospital-Landing-Page/](https://app.powerbi.com/view?r=eyJrIjoiYjQxMDE1N2YtMmJlMy00YWM2LWI5Y2EtMzU3YjI3YzhlNmE5IiwidCI6IjljYjdlZjQ5LTdjYzUtNDBkZC1hOTIyLTMxMmFkYTk2Y2YyYyJ9))
+### Link
+👉 Live Report: [ESPN Cricket Data Analysis](https://app.powerbi.com/viewr=eyJrIjoiYjQxMDE1N2YtMmJlMy00YWM2LWI5Y2EtMzU3YjI3YzhlNmE5IiwidCI6IjljYjdlZjQ5LTdjYzUtNDBkZC1hOTIyLTMxMmFkYTk2Y2YyYyJ9)
 
 ### 🧾 Data Source
 
